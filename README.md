@@ -16,6 +16,7 @@ I'm a passionate **Full-Stack Developer** and **Computer Science student** at **
 ## 🎓 Certifications:
 - **Java Programming - Beginner to Master (Udemy)**
 - **MERN Stack - Complete Guide (Udemy)**
+- **FrontEnd - Front End Development (Udemy)**
 
 ## 💡 Interests:
 - **Backend Development**
